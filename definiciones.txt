@@ -1,0 +1,8 @@
+Variables: es una forma de almacenar el valor de algo para usar mas tarde, se le da nombre a un valor.
+Se puede usar para guardar cualquier tipo de dato en JavaScript.
+Strings: son palabras (hilo de caracteres), siempre van a estar entre comillas simples ( ‘ ) o dobles ( “ ).
+Funciones: conjunto de instrucciones (un procedimiento) que realiza una tarea o calcula un valor.
+Debe tener una entrada y una salida.
+Declaraciones: son instrucciones y están separadas por punto y coma ( ; ).
+Valores booleanos: en JavaScript se usa para significar true/false, solo tiene 2 valores posibles.
+Son palabras reservadas.
